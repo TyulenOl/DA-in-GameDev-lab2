@@ -114,6 +114,10 @@ def iterate(a, b, x, y, times):
 ![Screenshot_10](https://user-images.githubusercontent.com/100992984/191805629-3dda2647-29d5-414e-87e2-00ecaae5dee6.png)
 
 
+https://user-images.githubusercontent.com/100992984/194304616-3841d73a-32da-403a-b03e-8a2ecdd4973b.mp4
+
+
+
 ## Задание 3
 ### Изучить код на Python и ответить на вопросы:
 ### 1. Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
