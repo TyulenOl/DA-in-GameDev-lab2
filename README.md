@@ -29,7 +29,7 @@
 - Подключение API для работы с google sheets в google console
 ![Screenshot_1](https://user-images.githubusercontent.com/100992984/194637615-d58728c7-5600-4a1d-9454-c3dd0e84e7b9.png)
 
-- Подключение API для работы с google sheets в google drive
+- Подключение API для работы с google drive в google console
 ![Screenshot_2](https://user-images.githubusercontent.com/100992984/194637671-eab801cf-e36a-4668-b39d-665ee51684ec.png)
 
 - Реализация записи данных из скрипта на python в google-таблицу. Данные описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с учётом стоимости игрового объекта в каждый период.
